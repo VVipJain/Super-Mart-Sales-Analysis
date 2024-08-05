@@ -32,16 +32,19 @@ VISUALISATION :-
 
 We use Plotly to create interactive visualizations. Some of the key visualizations include:
 
-Bar Charts: Sales performance by branch, product line, and payment method.
+Bar Charts: Margins analysis region wise from the revenue and cost.
+
+![newplot(10)](https://github.com/user-attachments/assets/80caa4c4-aad3-4ac8-b53a-7885392b1450)
 
 
-Pie Charts: Distribution of sales by customer type and gender.
+Pie Charts: Distribution of sales by category and item wise profit analysis.
 
 ![newplot(7)](https://github.com/user-attachments/assets/0022545a-0fb1-4541-bad2-d051a12f8035)
+![newplot(9)](https://github.com/user-attachments/assets/b9ea00de-2189-4d5c-80f8-3c30e7c4720b)
 
 
-Line Charts: Trends in sales and gross income over time.
+Line Charts: Trends in sales and profit over a month.
 
 ![newplot(8)](https://github.com/user-attachments/assets/6eb4c6a5-e3be-4901-9215-35acc911397e)
+![newplot(11)](https://github.com/user-attachments/assets/5108dfc4-8ed0-4588-a0ce-9b59cba949e6)
 
-Heatmaps: Correlation between different variables in the dataset.
